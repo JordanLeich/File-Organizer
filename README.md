@@ -1,5 +1,4 @@
-# Downloads-organizer
- I made this project for the purpose of organizing my Downloads-folder.
+# File-Organizer
  The script creates several folders in Downloads and moves files with specific extensions to their corresponding folder.
  Folders that are downloaded are also automatically moved to the 'FOLDERS' folder.
  The script is very easy to addapt to suit your needs, so feel free to tinquer with it.
