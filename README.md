@@ -16,3 +16,5 @@ Alternatively you can run the File Organizer.exe and it will install the require
  
 ## Important
  Depending on the size of your (Downloads-) folder it can take quite a while for all the files to move/organize during the first run. Don't terminate the script while it's running because that may corrupt some of your files.
+ 
+ ![](images/files.jpeg)
